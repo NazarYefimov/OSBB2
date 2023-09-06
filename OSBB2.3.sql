@@ -1,0 +1,1 @@
+EXPLAIN SELECT * FROM OSBBMembers WHERE full_name LIKE 'Taraas%';
